@@ -20,3 +20,4 @@ jobs:
         server: ftp://185.201.11.215
         username: u212296692
         password: ${{ secrets.kiwi_pass }}
+        password: ${{ secrets.kiwi_pass }}
