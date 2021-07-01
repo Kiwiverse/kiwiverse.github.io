@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: ftp://185.201.11.215
+        server: ftp.kiwiverse.tech
         username: u212296692
         password: ${{ secrets.kiwi_pass }}
