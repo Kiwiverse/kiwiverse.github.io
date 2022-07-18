@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.kiwiverse.dev
         username: u212296692
-        password: ${{ secrets.FTPPASSWORD }}
+        password: ${{ secrets.KIWI_PASS }}
